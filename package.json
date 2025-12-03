@@ -1,0 +1,21 @@
+{
+  "name": "libertad-financiera-app",
+  "version": "1.0.0",
+  "description": "Aplicación de gestión financiera en React.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve -s -l 3000"
+  },
+  "keywords": [
+    "react",
+    "tailwind",
+    "finanzas"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lucide-react": "^0.395.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
